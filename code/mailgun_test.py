@@ -17,7 +17,7 @@ def send_simple_message1():
         data={"from": "Excited User <postmaster@mg.oncompress.site>",
               "to": ["shan275@163.com", "shan275@qq.com"],
               "subject": "Hello",
-              "text": "Testing some Mailgun awesomness!"})
+              "text": "Testing some Mailgun awesomness!!"})
 if __name__ == "__main__":
     send_simple_message()
-    send_simple_message1()
+    #send_simple_message1()
