@@ -6,3 +6,4 @@ learning test code
 
 - [blcokchain](./code/block_chain)
 - [helium-wallet-sum](./code/helium-wallet-accout.py)
+- [numpy](./code/numpy_test.py)
