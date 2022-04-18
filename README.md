@@ -10,3 +10,4 @@ learning test code
 - [peer_sync](./code/peer_sync.py)
 - [lamba](./code/lambda.py)
 - [reboot_modem](./code/4G_reboot.py)
+- [ChromeDriver_test](./code/ChromeDriver_test.py)
